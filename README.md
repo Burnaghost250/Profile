@@ -1,2 +1,1 @@
-# Profile
-A personal portifolio of developer
+<h1>Personal profile</h1>
